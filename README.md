@@ -1,1 +1,1 @@
-# 图片管理仓库
+[image](https://github.com/china-ye/OSS/blob/master/logo_small.png)
